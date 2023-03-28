@@ -1,0 +1,30 @@
+
+      /* Customize the navbar */
+      .navbar {
+        background-color: #f8f8f8;
+        border-color: #e7e7e7;
+        margin-bottom: 0;
+        border-radius: 0;
+      }
+
+      /* Customize the navbar brand */
+      .navbar-brand {
+        margin-left: 15px;
+      }
+
+      /* Customize the dropdown menu */
+      .dropdown-menu {
+        background-color: #f8f8f8;
+        width: 100%;
+      }
+
+      /* Customize the page heading */
+      .page-header {
+        text-align: center;
+      }
+
+      /* Customize the single tall section */
+      .tall-section {
+        height: 1000px;
+        background-color: #ebebeb;
+      }
